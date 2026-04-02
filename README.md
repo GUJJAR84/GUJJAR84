@@ -113,7 +113,7 @@ me.say_hi()
 ✅ Built end-to-end ML systems (training → deployment)
 ✅ Published AI solutions on Hugging Face Spaces
 ✅ Designed multi-agent AI architectures
-✅ 400+ DSA problems solved
+✅ 200+ DSA problems solved
 ```
 
 </td>
