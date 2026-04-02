@@ -89,20 +89,48 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## &nbsp;`🧪 Projects & Research`
+## &nbsp;`🔥 What I'm Building`
 
 <div align="center">
 
-| 🔬 Domain | 📝 Project | 🛠️ Stack |
-|:---:|:---|:---|
-| 🧠 NLP | **JanSarthi** — AI-powered multilingual assistant for Indian citizens | Python · Bhashini APIs · LLMs |
-| 🔊 Audio ML | **Audio Classifier** — Deep learning model for sound recognition | Python · TensorFlow · Librosa |
-| 🌐 Web3 | **Blockchain Projects** — Smart contract & DApp experiments | Solidity · JavaScript |
-| 🤖 AI Tools | **AI Smart Study Planner** — Intelligent study schedule generator | React · Node.js |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 &nbsp;Currently Hacking On
+```
+🔬 Deep Learning pipelines for real-world data
+🩺 AI for patient deterioration prediction
+🌿 Computer Vision models for agriculture
+🤖 LLM-powered agents & tool-use systems
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 &nbsp;Achievements Unlocked
+```
+✅ Built end-to-end ML systems (training → deployment)
+✅ Published AI solutions on Hugging Face Spaces
+✅ Designed multi-agent AI architectures
+✅ 400+ DSA problems solved
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GUJJAR84&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00D9FF&ring=A960FF&fire=FF6B6B&currStreakLabel=00D9FF" height="200" />
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Lunar_Nova/"><img src="https://leetcard.jacoblin.cool/Lunar_Nova?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=16" height="220" /></a>
 
 </div>
 
-> *🚀 Actively building more AI/ML projects — watch this space!*
+> *💡 I ship fast, break things, and train models at 3 AM — let's build something legendary.*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
